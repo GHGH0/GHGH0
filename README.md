@@ -1,31 +1,31 @@
 ## Hey 👋, I'm Ghizlane!
 
-<a href='رابط_لينكد_إن_هنا'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='YOUR_LINKEDIN_URL'><img align='left' alt="linkedin" src="https://githubusercontent.com" height='18px'/></a>
 <br/>
 
-أنا مبرمجة مبتدئة وشغوفة بعالم تطوير البرمجيات 💻. حالياً، أركز على بناء أساس قوي في تطوير الويب وقواعد البيانات، وأحب تحويل الأفكار إلى كود برمجي ملموس 🛠️.
+I am an aspiring Software Developer 💻. Currently, I'm a student focusing on IT development, building a strong foundation in web technologies and data management. I love solving problems and turning ideas into clean, functional code 🛠️.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://githubusercontent.com" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; حالياً أدرس **تطوير المعلوميات (Informatique)**.
-- 🌱 &nbsp; أعمل على تطوير مهاراتي في **CSS** و **Python** بشكل أعمق.
-- 👨🏻‍💻 &nbsp; يمكنك رؤية مشاريعي البسيطة هنا على [Github](https://github.com).
-- 💬 &nbsp; اسألني عن أي شيء يخص البداية في البرمجة، يسعدني التواصل.
-- 📫 &nbsp; تواصل معي عبر [LinkedIn](رابط_لينكد_إن_هنا).
+- 🔭 &nbsp; I’m currently studying **Computer Science & IT Development**.
+- 🌱 &nbsp; I’m sharpening my skills in **Python**, **CSS**, and **Database Management**.
+- 👨🏻‍💻 &nbsp; Most of my learning projects are available on [Github](https://github.com)
+- 💬 &nbsp; Ask me about getting started with coding, I am happy to help and connect;
+- 📫 &nbsp; Feel free to reach out to me on [LinkedIn](YOUR_LINKEDIN_URL)
 
 <br>
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://githubusercontent.com"></a>
 <a href="https://mozilla.org" target="_blank"> <img align="left" alt="HTML5" height ="42px" src="https://githubusercontent.com"> </a>
 <a href="https://mozilla.org" target="_blank"> <img align="left" alt="CSS3" height ="42px" src="https://githubusercontent.com"> </a>
 <a href="https://mysql.com" target="_blank"> <img align="left" alt="MySQL" height ="42px" src="https://githubusercontent.com"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com" target="_blank"> <img src="https://githubusercontent.com" align="left" alt="git" height='42px'/> </a>
 
 <br>
 <br>
